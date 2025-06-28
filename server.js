@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 const notion = new Client({
   auth: 'ntn_B98978608819parlF4Igb7SyOmJYSP1HakINvlEgwwq9Yl'
 });
-const databaseId = '21f24df55f118021a88dc94410f7198a';
+const databaseId = '21f24df55f11802fa88dc94410f7198a'?
 
 const items = [
   {
